@@ -1,0 +1,8 @@
+D:\Mphasis\.net\Phase 1 Project\PlayerAndTeam_Phase1Project\PlayerAndTeam_Phase1Project\bin\Debug\PlayerAndTeam_Phase1Project.exe.config
+D:\Mphasis\.net\Phase 1 Project\PlayerAndTeam_Phase1Project\PlayerAndTeam_Phase1Project\bin\Debug\PlayerAndTeam_Phase1Project.exe
+D:\Mphasis\.net\Phase 1 Project\PlayerAndTeam_Phase1Project\PlayerAndTeam_Phase1Project\bin\Debug\PlayerAndTeam_Phase1Project.pdb
+D:\Mphasis\.net\Phase 1 Project\PlayerAndTeam_Phase1Project\PlayerAndTeam_Phase1Project\obj\Debug\PlayerAndTeam_Phase1Project.csproj.AssemblyReference.cache
+D:\Mphasis\.net\Phase 1 Project\PlayerAndTeam_Phase1Project\PlayerAndTeam_Phase1Project\obj\Debug\PlayerAndTeam_Phase1Project.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\.net\Phase 1 Project\PlayerAndTeam_Phase1Project\PlayerAndTeam_Phase1Project\obj\Debug\PlayerAndTeam_Phase1Project.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\Phase 1 Project\PlayerAndTeam_Phase1Project\PlayerAndTeam_Phase1Project\obj\Debug\PlayerAndTeam_Phase1Project.exe
+D:\Mphasis\.net\Phase 1 Project\PlayerAndTeam_Phase1Project\PlayerAndTeam_Phase1Project\obj\Debug\PlayerAndTeam_Phase1Project.pdb
